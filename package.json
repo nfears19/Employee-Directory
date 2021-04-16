@@ -1,0 +1,19 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "This repository contains my employee directory with React. The project was a homework assignment from the Case Western Reserve University's Coding Bootcamp. It required me to create a directory that allows you to break up your application's UI into components, manage component state, and respond to user events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfears19/Employee-Directory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfears19/Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/nfears19/Employee-Directory#readme"
+}
